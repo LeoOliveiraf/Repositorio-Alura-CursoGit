@@ -4,6 +4,8 @@
 
 > Status do Projeto: Em desenvolvimento.
 
+>git clone e o link do respositorio
+
 >Para rodar esse projeto na sua máquina, por favor digite:
 
 ```
