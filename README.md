@@ -6,6 +6,10 @@
 
 >git clone e o link do respositorio
 
+>git log pega o historico de todo repositorio como por exemplo commit
+
+>git log --online é uma forma mais resumida de demonstrar todos commits que foram feitas.
+
 >Para rodar esse projeto na sua máquina, por favor digite:
 
 ```
