@@ -18,6 +18,12 @@
 
 >git switch nome da branch que voce deseja ir
 
+>Merge ele pega tudo que esta dentro da branch selecionada e manda para main
+
+>git branch mostra todas as branch e qual estou no momento
+
+>entrar na branch que vai receber as alterações e dar git merge e o nome da branch que voce deseja pegar as alteralções após isso só usar o git push
+
 >Para rodar esse projeto na sua máquina, por favor digite:
 
 ```
