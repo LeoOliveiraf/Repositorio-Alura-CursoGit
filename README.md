@@ -14,6 +14,10 @@
 
 >git restor --source ec04572 . usado para voce retornar a uma determina hash (ec04572) apos dizer qual é a hash voce deve informar se quer voltar o estado em uma determinado arquivo (nomeArquivo) ou em todos (.)
 
+>git checkout -b nome da branch, usado para criar uma nova branch. Branche são ramificações da main 
+
+>git switch nome da branch que voce deseja ir
+
 >Para rodar esse projeto na sua máquina, por favor digite:
 
 ```
